@@ -24,7 +24,7 @@ import { useTheme } from '../context/ThemeContext';
 
 // Базовый URL веб-приложения на Vercel
 const WEB_BASE_URL =
-  'https://wishlist-8u6pinn1p-denis-projects-ae8d0e08.vercel.app';
+  'https://wishlist-pbmyx1zmp-denis-projects-ae8d0e08.vercel.app';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'WishlistDetails'>;
 
